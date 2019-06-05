@@ -17,6 +17,6 @@ TrekAdvisor
 => Backend: EJS, Mongoose, MongoDB Atlas
 
 
-Team: Dhananjay Pathak, Sonu Yadav, Purushottam, Gautam Singh
+Team: Sonu Yadav,Dhananjay Pathak, Purushottam, Gautam Singh
 
 AWS: 
