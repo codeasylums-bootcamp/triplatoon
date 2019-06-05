@@ -9,3 +9,6 @@ TrekAdvisor
 
 => FrontEnd: HTML,CSS,JavaScript
 => Backend: EJS, Mongoose, MongoDB Atlas
+
+AWS: 
+Team: Dhananjay Pathak, Sonu Yadav, Purushottam, Gautam Singh
